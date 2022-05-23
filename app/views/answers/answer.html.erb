@@ -1,0 +1,15 @@
+<div class="container m-3">
+  <h3 class="mb-3">Stupid Coaching</h3>
+
+  <div class="mb-3">
+    <p class="lead"><%= @question %></p>
+    <p class="small"><em>- You</em></p>
+  </div>
+
+  <div class="mb-3">
+    <p class="lead"><mark><%= @answer %></mark></p>
+    <p class="small"><em>- Coach</em></p>
+  </div>
+
+  <%= link_to "Ask another question", "/ask", class: "text-decoration-none" %>
+</div>
