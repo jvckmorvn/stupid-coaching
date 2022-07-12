@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to this simple app designed as an exercise in takijg user input and using it to dynamically change the response of the program.
+Welcome to this simple app designed as an exercise in taking user input and using it to dynamically change the response of the program.
 
 ## Installation
 - Pull the project from this public repository.
